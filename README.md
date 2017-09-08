@@ -1,5 +1,5 @@
 # Arinze Christopher
-I am the very definition of a mimimum viable product always iterating to find my market fit. However i must emphasise that I may in the actual sense never reach that market fit. 
+I am the very definition of a mimimum viable product always iterating to find my market fit. However i must emphasize that I may in the actual sense never reach that market fit. 
 
  Foods I like so far in Ghana are;
 * Ukwa
