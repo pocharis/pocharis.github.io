@@ -1,5 +1,5 @@
 # Arinze Christopher
-I am an Africa man that love his people. I love Africa so much that i will do anything to improve mother Africa. I am at MEST to learn,iterate,ideate and create solutions for problems within Africa countries.
+I am the very definition of a mimimum viable product always iterating to find my market fit. However i must emphasise that I may in the actual sense never reach that market fit. 
 
  Foods I like so far in Ghana are;
 * Ukwa
@@ -17,7 +17,7 @@ my surge website is mature-club.surge.sh
 
 
 
-![My Picture](~/Desktop/arinze-web/arinze.jpg)
+![My Picture](background.jpg)
 Format: ![Alt Text](url)
 
 :+2:
