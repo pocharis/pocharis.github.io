@@ -2,16 +2,17 @@
 I am an Africa man that love his people. I love Africa so much that i will do anything to improve mother Africa. I am at MEST to learn,iterate,ideate and create solutions for problems within Africa countries.
 
  Foods I like so far in Ghana are;
-* Waakye
+* Ukwa
 * Rice
-* Spaghetti
+* Ede Soup
 
-Countries | EITs  numbers
-Nigeria | 19
-Ivory Coast | 8
-Kenya | 13
-South Africa | 4
-Ghana | 14
+Phones | Prices
+----------| --------------
+Iphone 8 | $1009
+Samsung S8 | $880
+Tecno CX | $509
+Samsung N8 | $1200
+
 my surge website is mature-club.surge.sh
 
 
